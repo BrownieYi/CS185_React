@@ -2,7 +2,7 @@
   "name": "bio-page",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://BrownieYi.github.io/CS185_React",
+  "homepage": "http://brownieYi.github.io/CS185_React",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
